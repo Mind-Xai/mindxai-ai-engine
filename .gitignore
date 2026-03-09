@@ -1,6 +1,16 @@
 .venv/
 __pycache__/
 *.pyc
+*.pyo
+*.log
 engine.log
-node_modules/
+logs/
 .env
+node_modules/
+models/
+*.safetensors
+*.gguf
+*.bin
+*.pt
+*.ckpt
+*.onnx
